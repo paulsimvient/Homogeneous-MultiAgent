@@ -1,0 +1,184 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f0a284f190479244b1b9947e4b5366d, type: 3}
+  m_Name: Moore FSM
+  m_EditorClassIdentifier: 
+  edges:
+  - onEdgePassed:
+      callbacks: []
+    originID: 363513814
+    targetID: 363513815
+    trigger: z
+    callbackInvokationOrder: 0
+  - onEdgePassed:
+      callbacks: []
+    originID: 363513815
+    targetID: 363513816
+    trigger: y
+    callbackInvokationOrder: 0
+  - onEdgePassed:
+      callbacks: []
+    originID: 363513814
+    targetID: 363513817
+    trigger: y
+    callbackInvokationOrder: 0
+  - onEdgePassed:
+      callbacks: []
+    originID: 363513817
+    targetID: 363513816
+    trigger: z
+    callbackInvokationOrder: 0
+  - onEdgePassed:
+      callbacks: []
+    originID: 363513816
+    targetID: 363513817
+    trigger: y
+    callbackInvokationOrder: 0
+  - onEdgePassed:
+      callbacks: []
+    originID: 363513815
+    targetID: 363513817
+    trigger: z
+    callbackInvokationOrder: 0
+  - onEdgePassed:
+      callbacks: []
+    originID: 363513815
+    targetID: 363513815
+    trigger: x
+    callbackInvokationOrder: 0
+  states:
+  - name: q0
+    id: 363513814
+    hideWarningsInEditor: 0
+    hideWarningsInConsole: 0
+    updateType: 0
+    callbackInvokationOrder: 0
+    isTerminating: 0
+    bounds:
+      serializedVersion: 2
+      x: -360
+      y: 0
+      width: 174.00002
+      height: 107
+    onStateEntered:
+      callbacks:
+      - objectName: Logger
+        componentName: SimpleLogger
+        methodName: MakeOutput
+        parameterType: String
+        parameterInt: 0
+        parameterString: b
+        parameterFloat: 0
+        parameterBool: 0
+    onStateLeft:
+      callbacks: []
+    onStateStay:
+      callbacks: []
+    onStateSetActive:
+      callbacks: []
+  - name: q1
+    id: 363513815
+    hideWarningsInEditor: 0
+    hideWarningsInConsole: 0
+    updateType: 0
+    callbackInvokationOrder: 0
+    isTerminating: 0
+    bounds:
+      serializedVersion: 2
+      x: -174
+      y: -166
+      width: 173.00002
+      height: 107
+    onStateEntered:
+      callbacks:
+      - objectName: Logger
+        componentName: SimpleLogger
+        methodName: MakeOutput
+        parameterType: String
+        parameterInt: 0
+        parameterString: a
+        parameterFloat: 0
+        parameterBool: 0
+    onStateLeft:
+      callbacks: []
+    onStateStay:
+      callbacks: []
+    onStateSetActive:
+      callbacks: []
+  - name: q2
+    id: 363513816
+    hideWarningsInEditor: 0
+    hideWarningsInConsole: 0
+    updateType: 0
+    callbackInvokationOrder: 0
+    isTerminating: 0
+    bounds:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 173.00002
+      height: 107
+    onStateEntered:
+      callbacks:
+      - objectName: Logger
+        componentName: SimpleLogger
+        methodName: MakeOutput
+        parameterType: String
+        parameterInt: 0
+        parameterString: a
+        parameterFloat: 0
+        parameterBool: 0
+    onStateLeft:
+      callbacks: []
+    onStateStay:
+      callbacks: []
+    onStateSetActive:
+      callbacks: []
+  - name: q3
+    id: 363513817
+    hideWarningsInEditor: 0
+    hideWarningsInConsole: 0
+    updateType: 0
+    callbackInvokationOrder: 0
+    isTerminating: 0
+    bounds:
+      serializedVersion: 2
+      x: -175
+      y: 179.99994
+      width: 172.50002
+      height: 107
+    onStateEntered:
+      callbacks:
+      - objectName: Logger
+        componentName: SimpleLogger
+        methodName: MakeOutput
+        parameterType: String
+        parameterInt: 0
+        parameterString: c
+        parameterFloat: 0
+        parameterBool: 0
+    onStateLeft:
+      callbacks: []
+    onStateStay:
+      callbacks: []
+    onStateSetActive:
+      callbacks: []
+  startStateID: 363513814
+  machineName: Moore FSM
+  saveActiveState: 0
+  hideAllWarningsEditor: 0
+  hideAllWarningsConsole: 0
+  errorOnFailedInvoke: 1
+  activeStateID: -1
+  startMachineOnAwake: 1
+  clearRuntimeCallbacksOnStop: 1
+  window: {fileID: 0}

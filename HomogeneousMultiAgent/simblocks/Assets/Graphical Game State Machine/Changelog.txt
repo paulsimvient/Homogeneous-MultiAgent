@@ -1,0 +1,7 @@
+--- Version 1.1 ---------------------------
+
+ - Renamed the asset from Graphical State Machine (GSM) to Graphical Finite State Machine (GSM)
+ - It is now possible to have multiple StateMachineProcessor's referring to the same state machine file.
+ - Bugfixes:
+    - Dragging machine files to the machine slot works now
+    - Fixed some error messages

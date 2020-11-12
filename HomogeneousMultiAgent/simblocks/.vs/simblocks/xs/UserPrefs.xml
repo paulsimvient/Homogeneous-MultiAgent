@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{A83F1760-B1BD-C1A7-F948-4D2457D637A7}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Graphical Game State Machine/Demo Scenes/Moore FSM/SimpleLogger.cs">
+    <Files>
+      <File FileName="../../../../../../../../Applications/Unity/Hub/Editor/2019.2.19f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/GraphicRaycaster.cs" Line="317" Column="52" />
+      <File FileName="Assets/PlayModeBlocksEngine/Scripts/BEComponents/BEInstructions/FunctionRotateAxis.cs" Line="20" Column="23" />
+      <File FileName="Assets/PlayModeBlocksEngine/Scripts/BEComponents/BEInstructions/FunctionIfTagCollide.cs" Line="1" Column="1" />
+      <File FileName="Assets/PlayModeBlocksEngine/Scripts/BEComponents/BEInstructions/FunctionWait.cs" Line="7" Column="26" />
+      <File FileName="Assets/PlayModeBlocksEngine/Scripts/BEComponents/BEBlock.cs" Line="1" Column="1" />
+      <File FileName="Assets/Abiogenesis3d/GUINodeEditor/Examples/MovementEditor/NodeTypes/Node_Movement.cs" Line="16" Column="46" />
+      <File FileName="Assets/Abiogenesis3d/GUINodeEditor/Source/NodeEditor.cs" Line="261" Column="22" />
+      <File FileName="Assets/Abiogenesis3d/GUINodeEditor/README (open with browser).html" Line="1" Column="1" />
+      <File FileName="Assets/Graphical Game State Machine/Demo Scenes/Moore FSM/SimpleLogger.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

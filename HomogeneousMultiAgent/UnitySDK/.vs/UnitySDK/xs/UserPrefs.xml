@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{C1B615ED-83BA-E9B3-B9E3-D8DB14417413}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Final FSM Terrarium/Assets/Terrarium/Scripts/CreatureAgentFSM.cs">
+    <Files>
+      <File FileName="../../Final FSM Terrarium/Assets/Terrarium/Scripts/CreatureAgentFSM.cs" Line="208" Column="13" />
+      <File FileName="../../Final FSM Terrarium/Assets/Terrarium/Scripts/CsvReadWrite.cs" Line="53" Column="41" />
+      <File FileName="../../Final FSM Terrarium/Assets/Terrarium/Scripts/TerrariumAcademy.cs" Line="17" Column="1" />
+      <File FileName="Assets/AirplaneAI/Source files/Scripts/BodyIntegrity.cs" Line="1" Column="1" />
+      <File FileName="Assets/AIScripts/FighterPlaneAgent.cs" Line="291" Column="6" />
+      <File FileName="Assets/AIScripts/JulietFSM.cs" Line="73" Column="18" />
+      <File FileName="../../Final FSM Terrarium/Assets/DebugGUI/DebugGUI.cs" Line="770" Column="20" />
+      <File FileName="../../Final FSM Terrarium/Assets/DebugGUI/Examples/DebugGUIExamples.cs" Line="153" Column="13" />
+      <File FileName="../../Final FSM Terrarium/Assets/Terrarium/Scripts/GameMode.cs" Line="1" Column="1" />
+      <File FileName="../../Final FSM Terrarium/Assets/Terrarium/Scripts/CreatureAgent.cs" Line="137" Column="19" />
+      <File FileName="../../Final FSM Terrarium/Assets/CSVSerializer/Demo/Scene/UIRanking.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,29 @@
+// Insert using statements here
+[TAG_USINGSTATEMENTS]
+
+// Keep code in a namespace
+namespace DynamicCSharp.RuntimeGenerated.Evaluation
+{
+	// Insert class name here
+	public sealed class [TAG_CLASSNAME]
+	{
+		// This will be assigned by the evaluator before execution to check for return integrity
+		private object _returnVal = null;
+	
+		// Insert delegate events here
+[TAG_DELEGATESTATEMENTS]
+	
+		// Insert fields here
+[TAG_FIELDSTATEMENTS]
+
+		// Insert method name here
+		public object [TAG_METHODNAME]()
+		{
+			// Insert method body here
+[TAG_METHODBODY]
+		
+			// Return value should be non-null if successful
+			return _returnVal;
+		}
+	}
+}

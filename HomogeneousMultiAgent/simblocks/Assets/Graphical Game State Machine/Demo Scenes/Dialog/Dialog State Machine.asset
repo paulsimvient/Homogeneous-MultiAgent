@@ -1,0 +1,541 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f0a284f190479244b1b9947e4b5366d, type: 3}
+  m_Name: Dialog State Machine
+  m_EditorClassIdentifier: 
+  edges:
+  - onEdgePassed:
+      callbacks:
+      - objectName: State Machine
+        componentName: DialogManager
+        methodName: OnSaidHello
+        parameterType: 
+        parameterInt: 0
+        parameterString: 
+        parameterFloat: 0
+        parameterBool: 0
+    originID: 363513814
+    targetID: 363513815
+    trigger: I said hello
+    callbackInvokationOrder: 0
+  - onEdgePassed:
+      callbacks:
+      - objectName: State Machine
+        componentName: DialogManager
+        methodName: OnCanYouSeeMe
+        parameterType: 
+        parameterInt: 0
+        parameterString: 
+        parameterFloat: 0
+        parameterBool: 0
+    originID: 363513814
+    targetID: 363513816
+    trigger: Can you see me?
+    callbackInvokationOrder: 0
+  - onEdgePassed:
+      callbacks:
+      - objectName: State Machine
+        componentName: DialogManager
+        methodName: OnNoFurtherJokes
+        parameterType: 
+        parameterInt: 0
+        parameterString: 
+        parameterFloat: 0
+        parameterBool: 0
+    originID: 363513816
+    targetID: 363513815
+    trigger: no
+    callbackInvokationOrder: 0
+  - onEdgePassed:
+      callbacks:
+      - objectName: State Machine
+        componentName: DialogManager
+        methodName: OnFurtherJokes
+        parameterType: 
+        parameterInt: 0
+        parameterString: 
+        parameterFloat: 0
+        parameterBool: 0
+    originID: 363513816
+    targetID: 363513817
+    trigger: yes
+    callbackInvokationOrder: 0
+  - onEdgePassed:
+      callbacks:
+      - objectName: State Machine
+        componentName: DialogManager
+        methodName: OnUhm
+        parameterType: 
+        parameterInt: 0
+        parameterString: 
+        parameterFloat: 0
+        parameterBool: 0
+    originID: 363513817
+    targetID: 363513815
+    trigger: uhm
+    callbackInvokationOrder: 0
+  - onEdgePassed:
+      callbacks:
+      - objectName: State Machine
+        componentName: DialogManager
+        methodName: OnTelepathy
+        parameterType: 
+        parameterInt: 0
+        parameterString: 
+        parameterFloat: 0
+        parameterBool: 0
+    originID: 363513817
+    targetID: 363513818
+    trigger: telepathy
+    callbackInvokationOrder: 0
+  - onEdgePassed:
+      callbacks:
+      - objectName: State Machine
+        componentName: DialogManager
+        methodName: OnNoTelepathy
+        parameterType: 
+        parameterInt: 0
+        parameterString: 
+        parameterFloat: 0
+        parameterBool: 0
+    originID: 363513818
+    targetID: 363513815
+    trigger: no
+    callbackInvokationOrder: 0
+  - onEdgePassed:
+      callbacks: []
+    originID: 363513815
+    targetID: 363513819
+    trigger: yes
+    callbackInvokationOrder: 0
+  - onEdgePassed:
+      callbacks: []
+    originID: 363513815
+    targetID: 363513820
+    trigger: no
+    callbackInvokationOrder: 0
+  - onEdgePassed:
+      callbacks: []
+    originID: 363513819
+    targetID: 363513821
+    trigger: understood
+    callbackInvokationOrder: 0
+  - onEdgePassed:
+      callbacks: []
+    originID: 363513821
+    targetID: 363513819
+    trigger: back
+    callbackInvokationOrder: 0
+  - onEdgePassed:
+      callbacks: []
+    originID: 363513821
+    targetID: 363513822
+    trigger: understood
+    callbackInvokationOrder: 0
+  - onEdgePassed:
+      callbacks: []
+    originID: 363513822
+    targetID: 363513823
+    trigger: understood
+    callbackInvokationOrder: 0
+  - onEdgePassed:
+      callbacks: []
+    originID: 363513822
+    targetID: 363513821
+    trigger: back
+    callbackInvokationOrder: 0
+  - onEdgePassed:
+      callbacks: []
+    originID: 363513823
+    targetID: 363513822
+    trigger: back
+    callbackInvokationOrder: 0
+  - onEdgePassed:
+      callbacks: []
+    originID: 363513823
+    targetID: 363513824
+    trigger: understood
+    callbackInvokationOrder: 0
+  - onEdgePassed:
+      callbacks: []
+    originID: 363513824
+    targetID: 363513823
+    trigger: back
+    callbackInvokationOrder: 0
+  - onEdgePassed:
+      callbacks: []
+    originID: 363513825
+    targetID: 363513824
+    trigger: back
+    callbackInvokationOrder: 0
+  - onEdgePassed:
+      callbacks: []
+    originID: 363513824
+    targetID: 363513825
+    trigger: understood
+    callbackInvokationOrder: 0
+  states:
+  - name: Start State
+    id: 363513814
+    hideWarningsInEditor: 0
+    hideWarningsInConsole: 0
+    updateType: 0
+    callbackInvokationOrder: 0
+    isTerminating: 0
+    bounds:
+      serializedVersion: 2
+      x: -120.00006
+      y: 1
+      width: 152.50003
+      height: 107
+    onStateEntered:
+      callbacks: []
+    onStateLeft:
+      callbacks: []
+    onStateStay:
+      callbacks: []
+    onStateSetActive:
+      callbacks:
+      - objectName: State Machine
+        componentName: DialogManager
+        methodName: InitDialog
+        parameterType: 
+        parameterInt: 0
+        parameterString: 
+        parameterFloat: 0
+        parameterBool: 0
+  - name: Learn More?
+    id: 363513815
+    hideWarningsInEditor: 0
+    hideWarningsInConsole: 0
+    updateType: 0
+    callbackInvokationOrder: 0
+    isTerminating: 0
+    bounds:
+      serializedVersion: 2
+      x: 240.00006
+      y: -119
+      width: 101.000015
+      height: 107
+    onStateEntered:
+      callbacks: []
+    onStateLeft:
+      callbacks: []
+    onStateStay:
+      callbacks: []
+    onStateSetActive:
+      callbacks: []
+  - name: Joke Said
+    id: 363513816
+    hideWarningsInEditor: 0
+    hideWarningsInConsole: 0
+    updateType: 0
+    callbackInvokationOrder: 0
+    isTerminating: 0
+    bounds:
+      serializedVersion: 2
+      x: 240.00006
+      y: 121.000244
+      width: 101.000015
+      height: 107
+    onStateEntered:
+      callbacks: []
+    onStateLeft:
+      callbacks: []
+    onStateStay:
+      callbacks: []
+    onStateSetActive:
+      callbacks: []
+  - name: Input?
+    id: 363513817
+    hideWarningsInEditor: 0
+    hideWarningsInConsole: 0
+    updateType: 0
+    callbackInvokationOrder: 0
+    isTerminating: 0
+    bounds:
+      serializedVersion: 2
+      x: 479.99988
+      y: 120.000244
+      width: 101.000015
+      height: 107
+    onStateEntered:
+      callbacks: []
+    onStateLeft:
+      callbacks: []
+    onStateStay:
+      callbacks: []
+    onStateSetActive:
+      callbacks: []
+  - name: You can do that?
+    id: 363513818
+    hideWarningsInEditor: 0
+    hideWarningsInConsole: 0
+    updateType: 0
+    callbackInvokationOrder: 0
+    isTerminating: 0
+    bounds:
+      serializedVersion: 2
+      x: 479.99988
+      y: -120
+      width: 101.000015
+      height: 107
+    onStateEntered:
+      callbacks: []
+    onStateLeft:
+      callbacks: []
+    onStateStay:
+      callbacks: []
+    onStateSetActive:
+      callbacks: []
+  - name: Learning 1
+    id: 363513819
+    hideWarningsInEditor: 0
+    hideWarningsInConsole: 0
+    updateType: 0
+    callbackInvokationOrder: 0
+    isTerminating: 0
+    bounds:
+      serializedVersion: 2
+      x: 240.00006
+      y: -360
+      width: 155.00003
+      height: 107
+    onStateEntered:
+      callbacks: []
+    onStateLeft:
+      callbacks: []
+    onStateStay:
+      callbacks: []
+    onStateSetActive:
+      callbacks:
+      - objectName: State Machine
+        componentName: DialogManager
+        methodName: Learning1
+        parameterType: 
+        parameterInt: 0
+        parameterString: 
+        parameterFloat: 0
+        parameterBool: 0
+  - name: No Learning
+    id: 363513820
+    hideWarningsInEditor: 0
+    hideWarningsInConsole: 0
+    updateType: 0
+    callbackInvokationOrder: 0
+    isTerminating: 1
+    bounds:
+      serializedVersion: 2
+      x: -120.00006
+      y: -240
+      width: 219.00005
+      height: 47
+    onStateEntered:
+      callbacks: []
+    onStateLeft:
+      callbacks: []
+    onStateStay:
+      callbacks: []
+    onStateSetActive:
+      callbacks:
+      - objectName: State Machine
+        componentName: DialogManager
+        methodName: OnNoLearningEntered
+        parameterType: 
+        parameterInt: 0
+        parameterString: 
+        parameterFloat: 0
+        parameterBool: 0
+  - name: Learning 2
+    id: 363513821
+    hideWarningsInEditor: 0
+    hideWarningsInConsole: 0
+    updateType: 0
+    callbackInvokationOrder: 0
+    isTerminating: 0
+    bounds:
+      serializedVersion: 2
+      x: 478.99988
+      y: -359
+      width: 155.00003
+      height: 107
+    onStateEntered:
+      callbacks: []
+    onStateLeft:
+      callbacks: []
+    onStateStay:
+      callbacks: []
+    onStateSetActive:
+      callbacks:
+      - objectName: State Machine
+        componentName: DialogManager
+        methodName: Learning2
+        parameterType: 
+        parameterInt: 0
+        parameterString: 
+        parameterFloat: 0
+        parameterBool: 0
+  - name: Learning 3
+    id: 363513822
+    hideWarningsInEditor: 0
+    hideWarningsInConsole: 0
+    updateType: 0
+    callbackInvokationOrder: 0
+    isTerminating: 0
+    bounds:
+      serializedVersion: 2
+      x: 720.00037
+      y: -360
+      width: 155.00003
+      height: 107
+    onStateEntered:
+      callbacks: []
+    onStateLeft:
+      callbacks: []
+    onStateStay:
+      callbacks: []
+    onStateSetActive:
+      callbacks:
+      - objectName: State Machine
+        componentName: DialogManager
+        methodName: Learning3
+        parameterType: 
+        parameterInt: 0
+        parameterString: 
+        parameterFloat: 0
+        parameterBool: 0
+  - name: Learning 4
+    id: 363513823
+    hideWarningsInEditor: 0
+    hideWarningsInConsole: 0
+    updateType: 0
+    callbackInvokationOrder: 0
+    isTerminating: 0
+    bounds:
+      serializedVersion: 2
+      x: 959.99994
+      y: -360
+      width: 155.00003
+      height: 107
+    onStateEntered:
+      callbacks: []
+    onStateLeft:
+      callbacks: []
+    onStateStay:
+      callbacks: []
+    onStateSetActive:
+      callbacks:
+      - objectName: State Machine
+        componentName: DialogManager
+        methodName: Learning4
+        parameterType: 
+        parameterInt: 0
+        parameterString: 
+        parameterFloat: 0
+        parameterBool: 0
+  - name: Learning 5
+    id: 363513824
+    hideWarningsInEditor: 0
+    hideWarningsInConsole: 0
+    updateType: 0
+    callbackInvokationOrder: 0
+    isTerminating: 0
+    bounds:
+      serializedVersion: 2
+      x: 1200
+      y: -360
+      width: 155.00003
+      height: 107
+    onStateEntered:
+      callbacks: []
+    onStateLeft:
+      callbacks: []
+    onStateStay:
+      callbacks: []
+    onStateSetActive:
+      callbacks:
+      - objectName: State Machine
+        componentName: DialogManager
+        methodName: Learning5
+        parameterType: 
+        parameterInt: 0
+        parameterString: 
+        parameterFloat: 0
+        parameterBool: 0
+  - name: Learning 6
+    id: 363513825
+    hideWarningsInEditor: 0
+    hideWarningsInConsole: 0
+    updateType: 0
+    callbackInvokationOrder: 0
+    isTerminating: 0
+    bounds:
+      serializedVersion: 2
+      x: 1440.0005
+      y: -360
+      width: 155.00003
+      height: 107
+    onStateEntered:
+      callbacks: []
+    onStateLeft:
+      callbacks: []
+    onStateStay:
+      callbacks: []
+    onStateSetActive:
+      callbacks:
+      - objectName: State Machine
+        componentName: DialogManager
+        methodName: Learning6
+        parameterType: 
+        parameterInt: 0
+        parameterString: 
+        parameterFloat: 0
+        parameterBool: 0
+  - name: FINISH
+    id: 363513826
+    hideWarningsInEditor: 0
+    hideWarningsInConsole: 0
+    updateType: 0
+    callbackInvokationOrder: 0
+    isTerminating: 1
+    bounds:
+      serializedVersion: 2
+      x: 1442.0005
+      y: -120
+      width: 148.50003
+      height: 47
+    onStateEntered:
+      callbacks: []
+    onStateLeft:
+      callbacks: []
+    onStateStay:
+      callbacks: []
+    onStateSetActive:
+      callbacks:
+      - objectName: State Machine
+        componentName: DialogManager
+        methodName: OnFinish
+        parameterType: 
+        parameterInt: 0
+        parameterString: 
+        parameterFloat: 0
+        parameterBool: 0
+  startStateID: 363513814
+  machineName: Dialog Machine
+  saveActiveState: 0
+  hideAllWarningsEditor: 1
+  hideAllWarningsConsole: 1
+  errorOnFailedInvoke: 1
+  activeStateID: -1
+  startMachineOnAwake: 1
+  clearRuntimeCallbacksOnStop: 1
+  window: {fileID: 0}

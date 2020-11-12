@@ -1,0 +1,520 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f0a284f190479244b1b9947e4b5366d, type: 3}
+  m_Name: Quest Machine
+  m_EditorClassIdentifier: 
+  edges:
+  - onEdgePassed:
+      callbacks: []
+    originID: 363513814
+    targetID: 363513815
+    trigger: talked to billy
+    callbackInvokationOrder: 0
+  - onEdgePassed:
+      callbacks: []
+    originID: 363513815
+    targetID: 363513816
+    trigger: talked to lilly
+    callbackInvokationOrder: 0
+  - onEdgePassed:
+      callbacks: []
+    originID: 363513816
+    targetID: 363513817
+    trigger: talked to timmy
+    callbackInvokationOrder: 0
+  - onEdgePassed:
+      callbacks: []
+    originID: 363513817
+    targetID: 363513820
+    trigger: button2
+    callbackInvokationOrder: 0
+  - onEdgePassed:
+      callbacks: []
+    originID: 363513817
+    targetID: 363513819
+    trigger: button3
+    callbackInvokationOrder: 0
+  - onEdgePassed:
+      callbacks: []
+    originID: 363513819
+    targetID: 363513815
+    trigger: talked to billy
+    callbackInvokationOrder: 0
+  - onEdgePassed:
+      callbacks: []
+    originID: 363513820
+    targetID: 363513815
+    trigger: talked to billy
+    callbackInvokationOrder: 0
+  - onEdgePassed:
+      callbacks: []
+    originID: 363513817
+    targetID: 363513818
+    trigger: button1
+    callbackInvokationOrder: 0
+  - onEdgePassed:
+      callbacks: []
+    originID: 363513818
+    targetID: 363513821
+    trigger: talked to emily
+    callbackInvokationOrder: 0
+  - onEdgePassed:
+      callbacks: []
+    originID: 363513821
+    targetID: 363513822
+    trigger: talked to liz
+    callbackInvokationOrder: 0
+  - onEdgePassed:
+      callbacks: []
+    originID: 363513822
+    targetID: 363513823
+    trigger: talked to greg
+    callbackInvokationOrder: 0
+  - onEdgePassed:
+      callbacks: []
+    originID: 363513823
+    targetID: 363513824
+    trigger: talked to timmy
+    callbackInvokationOrder: 0
+  states:
+  - name: Quest Started
+    id: 363513814
+    hideWarningsInEditor: 0
+    hideWarningsInConsole: 0
+    updateType: 0
+    callbackInvokationOrder: 0
+    isTerminating: 0
+    bounds:
+      serializedVersion: 2
+      x: -1320
+      y: -360
+      width: 254.00003
+      height: 107
+    onStateEntered:
+      callbacks: []
+    onStateLeft:
+      callbacks: []
+    onStateStay:
+      callbacks: []
+    onStateSetActive:
+      callbacks:
+      - objectName: StateMachine
+        componentName: QuestStateMachineManager
+        methodName: HighlightCharacter
+        parameterType: String
+        parameterInt: 0
+        parameterString: timmy
+        parameterFloat: 0
+        parameterBool: 0
+      - objectName: StateMachine
+        componentName: QuestStateMachineManager
+        methodName: SetMessage
+        parameterType: String
+        parameterInt: 0
+        parameterString: Hey there buddy, nice to see you! So, I've got a problem!
+          Recently when I came home, my friends Billy, Liz, Greg, Lilly and Emily
+          were there and played cards. I wanted to join them after taking a bite of
+          my favourite chocolate. But then I saw that my chocolate was already gone!
+          Please find out, who ate my chocolate! Best would be to ask Billy first!
+        parameterFloat: 0
+        parameterBool: 0
+  - name: Billy1
+    id: 363513815
+    hideWarningsInEditor: 0
+    hideWarningsInConsole: 0
+    updateType: 0
+    callbackInvokationOrder: 0
+    isTerminating: 0
+    bounds:
+      serializedVersion: 2
+      x: -1320
+      y: -120
+      width: 242.00003
+      height: 107
+    onStateEntered:
+      callbacks: []
+    onStateLeft:
+      callbacks: []
+    onStateStay:
+      callbacks: []
+    onStateSetActive:
+      callbacks:
+      - objectName: StateMachine
+        componentName: QuestStateMachineManager
+        methodName: HighlightCharacter
+        parameterType: String
+        parameterInt: 0
+        parameterString: billy
+        parameterFloat: 0
+        parameterBool: 0
+      - objectName: StateMachine
+        componentName: QuestStateMachineManager
+        methodName: SetMessage
+        parameterType: String
+        parameterInt: 0
+        parameterString: Chocolate? No, I don't like chocolate. But I think, Lilly
+          likes chocolate. Obviously. Because it is just as sweet as her!
+        parameterFloat: 0
+        parameterBool: 0
+  - name: Lilly1
+    id: 363513816
+    hideWarningsInEditor: 0
+    hideWarningsInConsole: 0
+    updateType: 0
+    callbackInvokationOrder: 0
+    isTerminating: 0
+    bounds:
+      serializedVersion: 2
+      x: -1320
+      y: 120.00003
+      width: 238.00003
+      height: 107.00003
+    onStateEntered:
+      callbacks: []
+    onStateLeft:
+      callbacks: []
+    onStateStay:
+      callbacks: []
+    onStateSetActive:
+      callbacks:
+      - objectName: StateMachine
+        componentName: QuestStateMachineManager
+        methodName: HighlightCharacter
+        parameterType: String
+        parameterInt: 0
+        parameterString: lilly
+        parameterFloat: 0
+        parameterBool: 0
+      - objectName: StateMachine
+        componentName: QuestStateMachineManager
+        methodName: SetMessage
+        parameterType: String
+        parameterInt: 0
+        parameterString: I looooooooove chocolate! Billy once gave me some as a present.
+          I think, he really likes me. Well, actually, Greg gave me chocolate too,
+          but only because he does not like it. But Liz and Emily do, I am sure! You
+          should tell Timmy!
+        parameterFloat: 0
+        parameterBool: 0
+  - name: Back to Timmy
+    id: 363513817
+    hideWarningsInEditor: 0
+    hideWarningsInConsole: 0
+    updateType: 0
+    callbackInvokationOrder: 0
+    isTerminating: 0
+    bounds:
+      serializedVersion: 2
+      x: -1320
+      y: 359.9997
+      width: 254.00003
+      height: 107
+    onStateEntered:
+      callbacks: []
+    onStateLeft:
+      callbacks:
+      - objectName: StateMachine
+        componentName: QuestStateMachineManager
+        methodName: SetButtonVisibility
+        parameterType: Boolean
+        parameterInt: 0
+        parameterString: 
+        parameterFloat: 0
+        parameterBool: 0
+    onStateStay:
+      callbacks: []
+    onStateSetActive:
+      callbacks:
+      - objectName: StateMachine
+        componentName: QuestStateMachineManager
+        methodName: HighlightCharacter
+        parameterType: String
+        parameterInt: 0
+        parameterString: timmy
+        parameterFloat: 0
+        parameterBool: 0
+      - objectName: StateMachine
+        componentName: QuestStateMachineManager
+        methodName: SetMessage
+        parameterType: String
+        parameterInt: 0
+        parameterString: So, what did you find out?
+        parameterFloat: 0
+        parameterBool: 0
+      - objectName: StateMachine
+        componentName: QuestStateMachineManager
+        methodName: SetButtonVisibility
+        parameterType: Boolean
+        parameterInt: 0
+        parameterString: 
+        parameterFloat: 0
+        parameterBool: 1
+  - name: Button1 clicked
+    id: 363513818
+    hideWarningsInEditor: 0
+    hideWarningsInConsole: 0
+    updateType: 0
+    callbackInvokationOrder: 0
+    isTerminating: 0
+    bounds:
+      serializedVersion: 2
+      x: -840
+      y: 359.9997
+      width: 258
+      height: 107
+    onStateEntered:
+      callbacks: []
+    onStateLeft:
+      callbacks: []
+    onStateStay:
+      callbacks: []
+    onStateSetActive:
+      callbacks:
+      - objectName: StateMachine
+        componentName: QuestStateMachineManager
+        methodName: SetMessage
+        parameterType: String
+        parameterInt: 0
+        parameterString: Ah! So one of the girls ate my chocolate! Can you confront
+          Emily for me?
+        parameterFloat: 0
+        parameterBool: 0
+      - objectName: StateMachine
+        componentName: QuestStateMachineManager
+        methodName: HighlightCharacter
+        parameterType: String
+        parameterInt: 0
+        parameterString: timmy
+        parameterFloat: 0
+        parameterBool: 0
+  - name: Button3 clicked
+    id: 363513819
+    hideWarningsInEditor: 0
+    hideWarningsInConsole: 0
+    updateType: 0
+    callbackInvokationOrder: 0
+    isTerminating: 0
+    bounds:
+      serializedVersion: 2
+      x: -840
+      y: -120
+      width: 258
+      height: 107
+    onStateEntered:
+      callbacks: []
+    onStateLeft:
+      callbacks: []
+    onStateStay:
+      callbacks: []
+    onStateSetActive:
+      callbacks:
+      - objectName: StateMachine
+        componentName: QuestStateMachineManager
+        methodName: SetMessage
+        parameterType: String
+        parameterInt: 0
+        parameterString: Hm, I think, I remember that Billy does not like chocolate.
+          You should ask him again.
+        parameterFloat: 0
+        parameterBool: 0
+  - name: Button2 clicked
+    id: 363513820
+    hideWarningsInEditor: 0
+    hideWarningsInConsole: 0
+    updateType: 0
+    callbackInvokationOrder: 0
+    isTerminating: 0
+    bounds:
+      serializedVersion: 2
+      x: -840
+      y: 119.99991
+      width: 258
+      height: 107.00003
+    onStateEntered:
+      callbacks: []
+    onStateLeft:
+      callbacks: []
+    onStateStay:
+      callbacks: []
+    onStateSetActive:
+      callbacks:
+      - objectName: StateMachine
+        componentName: QuestStateMachineManager
+        methodName: SetMessage
+        parameterType: String
+        parameterInt: 0
+        parameterString: Hm, I think, I remember that Greg and Billy do not like chocolate.
+          You should ask Billy again.
+        parameterFloat: 0
+        parameterBool: 0
+  - name: Emily1
+    id: 363513821
+    hideWarningsInEditor: 0
+    hideWarningsInConsole: 0
+    updateType: 0
+    callbackInvokationOrder: 0
+    isTerminating: 0
+    bounds:
+      serializedVersion: 2
+      x: -480
+      y: 359.9997
+      width: 248.50003
+      height: 107
+    onStateEntered:
+      callbacks: []
+    onStateLeft:
+      callbacks: []
+    onStateStay:
+      callbacks: []
+    onStateSetActive:
+      callbacks:
+      - objectName: StateMachine
+        componentName: QuestStateMachineManager
+        methodName: HighlightCharacter
+        parameterType: String
+        parameterInt: 0
+        parameterString: emily
+        parameterFloat: 0
+        parameterBool: 0
+      - objectName: StateMachine
+        componentName: QuestStateMachineManager
+        methodName: SetMessage
+        parameterType: String
+        parameterInt: 0
+        parameterString: Yes, chocolate is cool. Very tasty. And Timmy said, somebody
+          ate his favourite choc? I remember, Liz told me something about it.
+        parameterFloat: 0
+        parameterBool: 0
+  - name: Liz
+    id: 363513822
+    hideWarningsInEditor: 0
+    hideWarningsInConsole: 0
+    updateType: 0
+    callbackInvokationOrder: 0
+    isTerminating: 0
+    bounds:
+      serializedVersion: 2
+      x: -120
+      y: 359.9997
+      width: 233.00003
+      height: 107
+    onStateEntered:
+      callbacks: []
+    onStateLeft:
+      callbacks: []
+    onStateStay:
+      callbacks: []
+    onStateSetActive:
+      callbacks:
+      - objectName: StateMachine
+        componentName: QuestStateMachineManager
+        methodName: HighlightCharacter
+        parameterType: String
+        parameterInt: 0
+        parameterString: liz
+        parameterFloat: 0
+        parameterBool: 0
+      - objectName: StateMachine
+        componentName: QuestStateMachineManager
+        methodName: SetMessage
+        parameterType: String
+        parameterInt: 0
+        parameterString: Yez, I know who ate it! I mean, I know who knows it! You
+          should ask Greg
+        parameterFloat: 0
+        parameterBool: 0
+  - name: Greg
+    id: 363513823
+    hideWarningsInEditor: 0
+    hideWarningsInConsole: 0
+    updateType: 0
+    callbackInvokationOrder: 0
+    isTerminating: 0
+    bounds:
+      serializedVersion: 2
+      x: -120
+      y: 119.99991
+      width: 245.00003
+      height: 107.00003
+    onStateEntered:
+      callbacks: []
+    onStateLeft:
+      callbacks: []
+    onStateStay:
+      callbacks: []
+    onStateSetActive:
+      callbacks:
+      - objectName: StateMachine
+        componentName: QuestStateMachineManager
+        methodName: HighlightCharacter
+        parameterType: String
+        parameterInt: 0
+        parameterString: greg
+        parameterFloat: 0
+        parameterBool: 0
+      - objectName: StateMachine
+        componentName: QuestStateMachineManager
+        methodName: SetMessage
+        parameterType: String
+        parameterInt: 0
+        parameterString: Of course I know, who ate Timmy's chocolate. I did. And he
+          did. We ate it together yesterday. He didn't tell you, did he?
+        parameterFloat: 0
+        parameterBool: 0
+  - name: End
+    id: 363513824
+    hideWarningsInEditor: 0
+    hideWarningsInConsole: 0
+    updateType: 0
+    callbackInvokationOrder: 0
+    isTerminating: 1
+    bounds:
+      serializedVersion: 2
+      x: -120
+      y: -120
+      width: 254.00003
+      height: 47
+    onStateEntered:
+      callbacks: []
+    onStateLeft:
+      callbacks: []
+    onStateStay:
+      callbacks: []
+    onStateSetActive:
+      callbacks:
+      - objectName: StateMachine
+        componentName: QuestStateMachineManager
+        methodName: HighlightCharacter
+        parameterType: String
+        parameterInt: 0
+        parameterString: timmy
+        parameterFloat: 0
+        parameterBool: 0
+      - objectName: StateMachine
+        componentName: QuestStateMachineManager
+        methodName: SetMessage
+        parameterType: String
+        parameterInt: 0
+        parameterString: Oooooh yes, I remember. I ate it with Greg. Oh man, I am
+          so forgetful. Thank you for helping!
+        parameterFloat: 0
+        parameterBool: 0
+  startStateID: 363513814
+  machineName: Quest Machine
+  saveActiveState: 1
+  hideAllWarningsEditor: 0
+  hideAllWarningsConsole: 0
+  errorOnFailedInvoke: 0
+  activeStateID: 363513816
+  startMachineOnAwake: 1
+  clearRuntimeCallbacksOnStop: 1
+  window: {fileID: 0}

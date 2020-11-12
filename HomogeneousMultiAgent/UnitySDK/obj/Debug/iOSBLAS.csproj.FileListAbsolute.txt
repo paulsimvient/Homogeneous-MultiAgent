@@ -1,0 +1,978 @@
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/iOSBLAS.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/iOSBLAS.pdb
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/Barracuda.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/Boo.Lang.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/Google.Protobuf.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/Grpc.Core.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/Microsoft.CSharp.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/Microsoft.Win32.Primitives.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/mscorlib.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/netstandard.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/SyntaxTree.VisualStudio.Unity.Bridge.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.AppContext.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Collections.Concurrent.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Collections.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Collections.NonGeneric.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Collections.Specialized.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.ComponentModel.Annotations.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.ComponentModel.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.ComponentModel.EventBasedAsync.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.ComponentModel.Primitives.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.ComponentModel.TypeConverter.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Console.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Core.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Data.Common.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Data.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Diagnostics.Contracts.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Diagnostics.Debug.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Diagnostics.FileVersionInfo.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Diagnostics.Process.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Diagnostics.StackTrace.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Diagnostics.TextWriterTraceListener.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Diagnostics.Tools.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Diagnostics.TraceSource.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Drawing.Primitives.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Dynamic.Runtime.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Globalization.Calendars.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Globalization.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Globalization.Extensions.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Interactive.Async.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.IO.Abstractions.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.IO.Abstractions.TestingHelpers.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.IO.Compression.ZipFile.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.IO.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.IO.FileSystem.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.IO.FileSystem.DriveInfo.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.IO.FileSystem.Primitives.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.IO.FileSystem.Watcher.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.IO.IsolatedStorage.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.IO.MemoryMappedFiles.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.IO.Pipes.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.IO.UnmanagedMemoryStream.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Linq.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Linq.Expressions.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Linq.Parallel.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Linq.Queryable.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Net.Http.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Net.Http.Rtc.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Net.NameResolution.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Net.NetworkInformation.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Net.Ping.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Net.Primitives.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Net.Requests.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Net.Security.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Net.Sockets.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Net.WebHeaderCollection.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Net.WebSockets.Client.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Net.WebSockets.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Numerics.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Numerics.Vectors.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.ObjectModel.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Reflection.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Reflection.Emit.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Reflection.Emit.ILGeneration.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Reflection.Emit.Lightweight.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Reflection.Extensions.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Reflection.Primitives.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Resources.Reader.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Resources.ResourceManager.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Resources.Writer.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Runtime.CompilerServices.VisualC.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Runtime.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Runtime.Extensions.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Runtime.Handles.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Runtime.InteropServices.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Runtime.InteropServices.RuntimeInformation.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Runtime.InteropServices.WindowsRuntime.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Runtime.Numerics.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Runtime.Serialization.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Runtime.Serialization.Formatters.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Runtime.Serialization.Json.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Runtime.Serialization.Primitives.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Runtime.Serialization.Xml.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Security.Claims.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Security.Cryptography.Algorithms.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Security.Cryptography.Csp.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Security.Cryptography.Encoding.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Security.Cryptography.Primitives.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Security.Cryptography.X509Certificates.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Security.Principal.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Security.SecureString.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.ServiceModel.Duplex.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.ServiceModel.Http.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.ServiceModel.NetTcp.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.ServiceModel.Primitives.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.ServiceModel.Security.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Text.Encoding.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Text.Encoding.Extensions.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Text.RegularExpressions.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Threading.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Threading.Overlapped.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Threading.Tasks.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Threading.Tasks.Parallel.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Threading.Thread.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Threading.ThreadPool.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Threading.Timer.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.ValueTuple.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Xml.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Xml.Linq.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Xml.ReaderWriter.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Xml.XDocument.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Xml.XmlDocument.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Xml.XmlSerializer.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Xml.XPath.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/System.Xml.XPath.XDocument.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEditor.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEditor.Graphs.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEditor.UI.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEditor.VR.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEditor.WindowsStandalone.Extensions.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.AccessibilityModule.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.AIModule.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.AndroidJNIModule.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.AnimationModule.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.ARModule.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.AssetBundleModule.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.AudioModule.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.ClothModule.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.ClusterInputModule.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.ClusterRendererModule.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.CoreModule.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.CrashReportingModule.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.DirectorModule.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.DSPGraphModule.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.GameCenterModule.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.GridModule.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.HotReloadModule.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.ImageConversionModule.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.IMGUIModule.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.InputLegacyModule.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.InputModule.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.JSONSerializeModule.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.LocalizationModule.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.ParticleSystemModule.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.Physics2DModule.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.PhysicsModule.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.ProfilerModule.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.SharedInternalsModule.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.SpriteMaskModule.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.SpriteShapeModule.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.StreamingModule.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.SubstanceModule.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.TerrainModule.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.TextCoreModule.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.TextRenderingModule.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.TilemapModule.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.TLSModule.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.UI.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.UIElementsModule.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.UIModule.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.UmbraModule.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.UNETModule.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.UnityConnectModule.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.UnityTestProtocolModule.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.VehiclesModule.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.VFXModule.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.VideoModule.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.VRModule.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.WindModule.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.XRModule.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityScript.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityScript.Lang.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/Unity.Cecil.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/Unity.SerializationLogic.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/ExCSS.Unity.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/SyntaxTree.VisualStudio.Unity.Messaging.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/Boo.Lang.Compiler.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/Boo.Lang.PatternMatching.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/Boo.Lang.Parser.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/Boo.Lang.Useful.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/Unity.CecilTools.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.xml
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEditor.xml
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEditor.UI.pdb
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.UI.pdb
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.AIModule.xml
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.ARModule.xml
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.AccessibilityModule.xml
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.AndroidJNIModule.xml
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.AnimationModule.xml
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.AssetBundleModule.xml
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.AudioModule.xml
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.ClothModule.xml
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.ClusterInputModule.xml
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.ClusterRendererModule.xml
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.CoreModule.xml
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.CrashReportingModule.xml
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.DSPGraphModule.xml
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.DirectorModule.xml
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.xml
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.GameCenterModule.xml
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.GridModule.xml
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.HotReloadModule.xml
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.IMGUIModule.xml
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.ImageConversionModule.xml
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.InputModule.xml
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.InputLegacyModule.xml
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.JSONSerializeModule.xml
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.LocalizationModule.xml
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.ParticleSystemModule.xml
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.xml
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.PhysicsModule.xml
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.Physics2DModule.xml
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.ProfilerModule.xml
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.xml
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.SharedInternalsModule.xml
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.SpriteMaskModule.xml
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.SpriteShapeModule.xml
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.StreamingModule.xml
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.SubstanceModule.xml
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.TLSModule.xml
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.TerrainModule.xml
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.xml
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.TextCoreModule.xml
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.TextRenderingModule.xml
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.TilemapModule.xml
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.UIModule.xml
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.UIElementsModule.xml
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.UNETModule.xml
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.UmbraModule.xml
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.xml
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.UnityConnectModule.xml
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.UnityTestProtocolModule.xml
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.xml
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.xml
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.xml
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.xml
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.VFXModule.xml
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.VRModule.xml
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.VehiclesModule.xml
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.VideoModule.xml
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.WindModule.xml
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEngine.XRModule.xml
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/Temp/bin/Debug/UnityEditor.VR.xml
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/obj/Debug/iOSBLAS.csprojAssemblyReference.cache
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/obj/Debug/iOSBLAS.csproj.CoreCompileInputs.cache
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/obj/Debug/iOSBLAS.csproj.CopyComplete
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/obj/Debug/iOSBLAS.dll
+C:/Users/Shiro/Documents/FlightFiverr/UnitySDK/obj/Debug/iOSBLAS.pdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/iOSBLAS.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/iOSBLAS.pdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/Barracuda.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/Boo.Lang.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/Google.Protobuf.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/Grpc.Core.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/Microsoft.CSharp.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/Microsoft.Win32.Primitives.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/mscorlib.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/netstandard.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/SyntaxTree.VisualStudio.Unity.Bridge.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.AppContext.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Collections.Concurrent.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Collections.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Collections.NonGeneric.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Collections.Specialized.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.ComponentModel.Annotations.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.ComponentModel.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.ComponentModel.EventBasedAsync.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.ComponentModel.Primitives.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.ComponentModel.TypeConverter.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Console.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Core.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Data.Common.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Data.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Diagnostics.Contracts.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Diagnostics.Debug.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Diagnostics.FileVersionInfo.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Diagnostics.Process.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Diagnostics.StackTrace.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Diagnostics.TextWriterTraceListener.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Diagnostics.Tools.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Diagnostics.TraceSource.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Drawing.Primitives.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Dynamic.Runtime.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Globalization.Calendars.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Globalization.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Globalization.Extensions.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Interactive.Async.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.IO.Abstractions.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.IO.Abstractions.TestingHelpers.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.IO.Compression.ZipFile.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.IO.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.IO.FileSystem.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.IO.FileSystem.DriveInfo.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.IO.FileSystem.Primitives.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.IO.FileSystem.Watcher.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.IO.IsolatedStorage.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.IO.MemoryMappedFiles.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.IO.Pipes.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.IO.UnmanagedMemoryStream.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Linq.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Linq.Expressions.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Linq.Parallel.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Linq.Queryable.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Net.Http.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Net.Http.Rtc.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Net.NameResolution.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Net.NetworkInformation.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Net.Ping.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Net.Primitives.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Net.Requests.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Net.Security.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Net.Sockets.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Net.WebHeaderCollection.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Net.WebSockets.Client.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Net.WebSockets.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Numerics.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Numerics.Vectors.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.ObjectModel.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Reflection.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Reflection.Emit.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Reflection.Emit.ILGeneration.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Reflection.Emit.Lightweight.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Reflection.Extensions.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Reflection.Primitives.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Resources.Reader.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Resources.ResourceManager.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Resources.Writer.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Runtime.CompilerServices.VisualC.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Runtime.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Runtime.Extensions.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Runtime.Handles.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Runtime.InteropServices.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Runtime.InteropServices.WindowsRuntime.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Runtime.Numerics.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Runtime.Serialization.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Runtime.Serialization.Formatters.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Runtime.Serialization.Json.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Runtime.Serialization.Primitives.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Runtime.Serialization.Xml.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Security.Claims.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Security.Cryptography.Algorithms.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Security.Cryptography.Csp.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Security.Cryptography.Encoding.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Security.Cryptography.Primitives.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Security.Cryptography.X509Certificates.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Security.Principal.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Security.SecureString.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.ServiceModel.Duplex.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.ServiceModel.Http.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.ServiceModel.NetTcp.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.ServiceModel.Primitives.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.ServiceModel.Security.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Text.Encoding.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Text.Encoding.Extensions.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Text.RegularExpressions.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Threading.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Threading.Overlapped.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Threading.Tasks.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Threading.Tasks.Parallel.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Threading.Thread.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Threading.ThreadPool.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Threading.Timer.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.ValueTuple.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Xml.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Xml.Linq.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Xml.ReaderWriter.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Xml.XDocument.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Xml.XmlDocument.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Xml.XmlSerializer.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Xml.XPath.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Xml.XPath.XDocument.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEditor.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEditor.Graphs.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEditor.OSXStandalone.Extensions.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEditor.UI.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEditor.VR.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEditor.WindowsStandalone.Extensions.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.AccessibilityModule.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.AIModule.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.AndroidJNIModule.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.AnimationModule.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.ARModule.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.AssetBundleModule.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.AudioModule.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.ClothModule.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.ClusterInputModule.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.ClusterRendererModule.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.CoreModule.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.CrashReportingModule.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.DirectorModule.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.DSPGraphModule.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.GameCenterModule.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.GridModule.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.HotReloadModule.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.ImageConversionModule.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.IMGUIModule.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.InputLegacyModule.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.InputModule.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.JSONSerializeModule.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.LocalizationModule.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.ParticleSystemModule.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.Physics2DModule.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.PhysicsModule.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.ProfilerModule.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.SharedInternalsModule.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.SpriteMaskModule.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.SpriteShapeModule.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.StreamingModule.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.SubstanceModule.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.TerrainModule.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.TextCoreModule.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.TextRenderingModule.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.TilemapModule.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.TLSModule.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.UIElementsModule.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.UIModule.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.UmbraModule.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.UNETModule.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.UnityConnectModule.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.UnityTestProtocolModule.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.VehiclesModule.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.VFXModule.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.VideoModule.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.VRModule.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.WindModule.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.XRModule.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityScript.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityScript.Lang.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/Unity.Cecil.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/ExCSS.Unity.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/SyntaxTree.VisualStudio.Unity.Messaging.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Configuration.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.EnterpriseServices.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/System.Transactions.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/Boo.Lang.Compiler.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/Boo.Lang.PatternMatching.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/Boo.Lang.Parser.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/Boo.Lang.Useful.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.dll.mdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.xml
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEditor.dll.mdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEditor.xml
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEditor.UI.pdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.UI.pdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.AIModule.dll.mdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.AIModule.xml
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.ARModule.dll.mdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.ARModule.xml
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.AccessibilityModule.dll.mdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.AccessibilityModule.xml
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.AndroidJNIModule.dll.mdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.AndroidJNIModule.xml
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.AnimationModule.dll.mdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.AnimationModule.xml
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.AssetBundleModule.dll.mdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.AssetBundleModule.xml
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.AudioModule.dll.mdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.AudioModule.xml
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.ClothModule.dll.mdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.ClothModule.xml
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.ClusterInputModule.dll.mdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.ClusterInputModule.xml
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.ClusterRendererModule.dll.mdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.ClusterRendererModule.xml
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.CoreModule.dll.mdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.CoreModule.xml
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.CrashReportingModule.dll.mdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.CrashReportingModule.xml
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.DSPGraphModule.dll.mdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.DSPGraphModule.xml
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.DirectorModule.dll.mdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.DirectorModule.xml
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.dll.mdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.xml
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.GameCenterModule.dll.mdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.GameCenterModule.xml
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.GridModule.dll.mdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.GridModule.xml
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.HotReloadModule.dll.mdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.HotReloadModule.xml
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.IMGUIModule.dll.mdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.IMGUIModule.xml
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.ImageConversionModule.dll.mdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.ImageConversionModule.xml
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.InputModule.dll.mdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.InputModule.xml
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.InputLegacyModule.dll.mdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.InputLegacyModule.xml
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.JSONSerializeModule.dll.mdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.JSONSerializeModule.xml
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.LocalizationModule.dll.mdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.LocalizationModule.xml
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.ParticleSystemModule.dll.mdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.ParticleSystemModule.xml
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.dll.mdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.xml
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.PhysicsModule.dll.mdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.PhysicsModule.xml
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.Physics2DModule.dll.mdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.Physics2DModule.xml
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.ProfilerModule.dll.mdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.ProfilerModule.xml
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.dll.mdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.xml
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.SharedInternalsModule.dll.mdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.SharedInternalsModule.xml
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.SpriteMaskModule.dll.mdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.SpriteMaskModule.xml
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.SpriteShapeModule.dll.mdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.SpriteShapeModule.xml
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.StreamingModule.dll.mdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.StreamingModule.xml
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.SubstanceModule.dll.mdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.SubstanceModule.xml
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.TLSModule.dll.mdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.TLSModule.xml
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.TerrainModule.dll.mdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.TerrainModule.xml
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.dll.mdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.xml
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.TextCoreModule.dll.mdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.TextCoreModule.xml
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.TextRenderingModule.dll.mdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.TextRenderingModule.xml
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.TilemapModule.dll.mdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.TilemapModule.xml
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.UIModule.dll.mdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.UIModule.xml
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.UIElementsModule.dll.mdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.UIElementsModule.xml
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.UNETModule.dll.mdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.UNETModule.xml
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.UmbraModule.dll.mdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.UmbraModule.xml
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.dll.mdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.xml
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.UnityConnectModule.dll.mdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.UnityConnectModule.xml
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.UnityTestProtocolModule.dll.mdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.UnityTestProtocolModule.xml
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.dll.mdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.xml
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.dll.mdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.xml
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll.mdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.xml
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll.mdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.xml
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll.mdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.xml
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.VFXModule.dll.mdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.VFXModule.xml
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.VRModule.dll.mdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.VRModule.xml
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.VehiclesModule.dll.mdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.VehiclesModule.xml
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.VideoModule.dll.mdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.VideoModule.xml
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.WindModule.dll.mdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.WindModule.xml
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.XRModule.dll.mdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEngine.XRModule.xml
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEditor.VR.dll.mdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEditor.VR.xml
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEditor.Graphs.dll.mdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEditor.WindowsStandalone.Extensions.dll.mdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/Temp/bin/Debug/UnityEditor.OSXStandalone.Extensions.dll.mdb
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/obj/Debug/iOSBLAS.csprojAssemblyReference.cache
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/obj/Debug/iOSBLAS.csproj.CoreCompileInputs.cache
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/obj/Debug/iOSBLAS.csproj.CopyComplete
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/obj/Debug/iOSBLAS.dll
+/Users/paulcummings/Dropbox/ECS Capture/AFRL_STRATGEM/Curiosity/UnitySDK/obj/Debug/iOSBLAS.pdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/iOSBLAS.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/iOSBLAS.pdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/Barracuda.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/Boo.Lang.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/EditorDesignerUI.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/FullSerializer - Unity.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/Google.Protobuf.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/Grpc.Core.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/mcs.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/Microsoft.CodeAnalysis.CSharp.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/Microsoft.CodeAnalysis.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/Microsoft.CSharp.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/Microsoft.Win32.Primitives.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/Mono.Cecil.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/mscorlib.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/netstandard.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/RoslynCSharp.Compiler.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/SyntaxTree.VisualStudio.Unity.Bridge.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.AppContext.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Collections.Concurrent.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Collections.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Collections.Immutable.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Collections.NonGeneric.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Collections.Specialized.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.ComponentModel.Annotations.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.ComponentModel.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.ComponentModel.EventBasedAsync.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.ComponentModel.Primitives.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.ComponentModel.TypeConverter.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Console.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Core.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Data.Common.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Data.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Diagnostics.Contracts.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Diagnostics.Debug.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Diagnostics.FileVersionInfo.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Diagnostics.Process.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Diagnostics.StackTrace.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Diagnostics.TextWriterTraceListener.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Diagnostics.Tools.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Diagnostics.TraceSource.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Drawing.Primitives.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Dynamic.Runtime.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Globalization.Calendars.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Globalization.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Globalization.Extensions.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Interactive.Async.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.IO.Abstractions.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.IO.Abstractions.TestingHelpers.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.IO.Compression.ZipFile.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.IO.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.IO.FileSystem.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.IO.FileSystem.DriveInfo.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.IO.FileSystem.Primitives.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.IO.FileSystem.Watcher.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.IO.IsolatedStorage.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.IO.MemoryMappedFiles.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.IO.Pipes.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.IO.UnmanagedMemoryStream.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Linq.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Linq.Expressions.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Linq.Parallel.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Linq.Queryable.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Net.Http.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Net.Http.Rtc.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Net.NameResolution.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Net.NetworkInformation.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Net.Ping.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Net.Primitives.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Net.Requests.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Net.Security.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Net.Sockets.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Net.WebHeaderCollection.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Net.WebSockets.Client.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Net.WebSockets.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Numerics.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Numerics.Vectors.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.ObjectModel.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Reflection.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Reflection.Emit.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Reflection.Emit.ILGeneration.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Reflection.Emit.Lightweight.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Reflection.Extensions.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Reflection.Metadata.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Reflection.Primitives.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Resources.Reader.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Resources.ResourceManager.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Resources.Writer.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Runtime.CompilerServices.VisualC.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Runtime.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Runtime.Extensions.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Runtime.Handles.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Runtime.InteropServices.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Runtime.InteropServices.WindowsRuntime.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Runtime.Numerics.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Runtime.Serialization.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Runtime.Serialization.Formatters.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Runtime.Serialization.Json.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Runtime.Serialization.Primitives.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Runtime.Serialization.Xml.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Security.Claims.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Security.Cryptography.Algorithms.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Security.Cryptography.Csp.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Security.Cryptography.Encoding.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Security.Cryptography.Primitives.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Security.Cryptography.X509Certificates.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Security.Principal.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Security.SecureString.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.ServiceModel.Duplex.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.ServiceModel.Http.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.ServiceModel.NetTcp.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.ServiceModel.Primitives.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.ServiceModel.Security.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Text.Encoding.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Text.Encoding.Extensions.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Text.RegularExpressions.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Threading.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Threading.Overlapped.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Threading.Tasks.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Threading.Tasks.Extensions.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Threading.Tasks.Parallel.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Threading.Thread.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Threading.ThreadPool.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Threading.Timer.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.ValueTuple.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Xml.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Xml.Linq.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Xml.ReaderWriter.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Xml.XDocument.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Xml.XmlDocument.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Xml.XmlSerializer.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Xml.XPath.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Xml.XPath.XDocument.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/Trivial.CodeSecurity.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/Trivial.ImGUI.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/Trivial.Mono.Cecil.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/Trivial.Mono.Cecil.Mdb.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/Trivial.Mono.Cecil.Pdb.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/Unity.Analytics.Editor.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/Unity.Analytics.StandardEvents.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/Unity.Analytics.Tracker.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEditor.Advertisements.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEditor.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEditor.Graphs.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEditor.OSXStandalone.Extensions.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEditor.Purchasing.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEditor.UI.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEditor.VR.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEditor.WindowsStandalone.Extensions.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.AccessibilityModule.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.AIModule.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.AndroidJNIModule.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.AnimationModule.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.ARModule.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.AssetBundleModule.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.AudioModule.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.ClothModule.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.ClusterInputModule.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.ClusterRendererModule.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.CoreModule.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.CrashReportingModule.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.DirectorModule.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.DSPGraphModule.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.GameCenterModule.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.GridModule.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.HotReloadModule.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.ImageConversionModule.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.IMGUIModule.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.InputLegacyModule.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.InputModule.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.JSONSerializeModule.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.LocalizationModule.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.ParticleSystemModule.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.Physics2DModule.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.PhysicsModule.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.ProfilerModule.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.SharedInternalsModule.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.SpriteMaskModule.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.SpriteShapeModule.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.StreamingModule.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.SubstanceModule.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.TerrainModule.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.TextCoreModule.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.TextRenderingModule.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.TilemapModule.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.TLSModule.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.UIElementsModule.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.UIModule.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.UmbraModule.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.UNETModule.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.UnityConnectModule.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.UnityTestProtocolModule.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.VehiclesModule.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.VFXModule.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.VideoModule.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.VRModule.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.WindModule.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.XRModule.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityScript.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityScript.Lang.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/Unity.Cecil.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/ExCSS.Unity.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/SyntaxTree.VisualStudio.Unity.Messaging.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Configuration.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.EnterpriseServices.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/System.Transactions.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/Boo.Lang.Compiler.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/Boo.Lang.PatternMatching.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/Boo.Lang.Parser.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/Boo.Lang.Useful.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.xml
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEditor.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEditor.xml
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEditor.UI.pdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.UI.pdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.AIModule.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.AIModule.xml
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.ARModule.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.ARModule.xml
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.AccessibilityModule.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.AccessibilityModule.xml
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.AndroidJNIModule.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.AndroidJNIModule.xml
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.AnimationModule.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.AnimationModule.xml
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.AssetBundleModule.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.AssetBundleModule.xml
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.AudioModule.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.AudioModule.xml
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.ClothModule.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.ClothModule.xml
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.ClusterInputModule.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.ClusterInputModule.xml
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.ClusterRendererModule.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.ClusterRendererModule.xml
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.CoreModule.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.CoreModule.xml
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.CrashReportingModule.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.CrashReportingModule.xml
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.DSPGraphModule.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.DSPGraphModule.xml
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.DirectorModule.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.DirectorModule.xml
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.xml
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.GameCenterModule.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.GameCenterModule.xml
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.GridModule.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.GridModule.xml
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.HotReloadModule.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.HotReloadModule.xml
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.IMGUIModule.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.IMGUIModule.xml
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.ImageConversionModule.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.ImageConversionModule.xml
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.InputModule.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.InputModule.xml
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.InputLegacyModule.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.InputLegacyModule.xml
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.JSONSerializeModule.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.JSONSerializeModule.xml
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.LocalizationModule.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.LocalizationModule.xml
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.ParticleSystemModule.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.ParticleSystemModule.xml
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.xml
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.PhysicsModule.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.PhysicsModule.xml
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.Physics2DModule.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.Physics2DModule.xml
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.ProfilerModule.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.ProfilerModule.xml
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.xml
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.SharedInternalsModule.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.SharedInternalsModule.xml
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.SpriteMaskModule.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.SpriteMaskModule.xml
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.SpriteShapeModule.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.SpriteShapeModule.xml
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.StreamingModule.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.StreamingModule.xml
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.SubstanceModule.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.SubstanceModule.xml
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.TLSModule.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.TLSModule.xml
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.TerrainModule.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.TerrainModule.xml
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.xml
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.TextCoreModule.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.TextCoreModule.xml
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.TextRenderingModule.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.TextRenderingModule.xml
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.TilemapModule.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.TilemapModule.xml
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.UIModule.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.UIModule.xml
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.UIElementsModule.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.UIElementsModule.xml
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.UNETModule.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.UNETModule.xml
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.UmbraModule.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.UmbraModule.xml
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.xml
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.UnityConnectModule.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.UnityConnectModule.xml
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.UnityTestProtocolModule.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.UnityTestProtocolModule.xml
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.xml
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.xml
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.xml
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.xml
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.xml
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.VFXModule.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.VFXModule.xml
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.VRModule.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.VRModule.xml
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.VehiclesModule.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.VehiclesModule.xml
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.VideoModule.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.VideoModule.xml
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.WindModule.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.WindModule.xml
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.XRModule.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEngine.XRModule.xml
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEditor.VR.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEditor.VR.xml
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEditor.Graphs.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEditor.WindowsStandalone.Extensions.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEditor.OSXStandalone.Extensions.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/UnityEditor.Advertisements.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/Unity.Analytics.Tracker.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/Unity.Analytics.Editor.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/Temp/bin/Debug/Unity.Analytics.StandardEvents.dll.mdb
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/obj/Debug/iOSBLAS.csprojAssemblyReference.cache
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/obj/Debug/iOSBLAS.csproj.CoreCompileInputs.cache
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/obj/Debug/iOSBLAS.csproj.CopyComplete
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/obj/Debug/iOSBLAS.dll
+/Users/paulcummings/Dropbox/PHD_GMU/Paper 2/Paper 2/ThisIsSTRATGEN/UnitySDK/obj/Debug/iOSBLAS.pdb

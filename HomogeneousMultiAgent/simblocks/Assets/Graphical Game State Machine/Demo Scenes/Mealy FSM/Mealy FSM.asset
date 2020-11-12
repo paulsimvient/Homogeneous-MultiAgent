@@ -1,0 +1,221 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f0a284f190479244b1b9947e4b5366d, type: 3}
+  m_Name: Mealy FSM
+  m_EditorClassIdentifier: 
+  edges:
+  - onEdgePassed:
+      callbacks:
+      - objectName: Logger
+        componentName: SimpleLogger
+        methodName: MakeOutput
+        parameterType: String
+        parameterInt: 0
+        parameterString: a
+        parameterFloat: 0
+        parameterBool: 0
+    originID: 363513814
+    targetID: 363513815
+    trigger: z
+    callbackInvokationOrder: 0
+  - onEdgePassed:
+      callbacks:
+      - objectName: Logger
+        componentName: SimpleLogger
+        methodName: MakeOutput
+        parameterType: String
+        parameterInt: 0
+        parameterString: a
+        parameterFloat: 0
+        parameterBool: 0
+    originID: 363513815
+    targetID: 363513816
+    trigger: y
+    callbackInvokationOrder: 0
+  - onEdgePassed:
+      callbacks:
+      - objectName: Logger
+        componentName: SimpleLogger
+        methodName: MakeOutput
+        parameterType: String
+        parameterInt: 0
+        parameterString: c
+        parameterFloat: 0
+        parameterBool: 0
+    originID: 363513816
+    targetID: 363513817
+    trigger: y
+    callbackInvokationOrder: 0
+  - onEdgePassed:
+      callbacks:
+      - objectName: Logger
+        componentName: SimpleLogger
+        methodName: MakeOutput
+        parameterType: String
+        parameterInt: 0
+        parameterString: c
+        parameterFloat: 0
+        parameterBool: 0
+    originID: 363513814
+    targetID: 363513817
+    trigger: y
+    callbackInvokationOrder: 0
+  - onEdgePassed:
+      callbacks:
+      - objectName: Logger
+        componentName: SimpleLogger
+        methodName: MakeOutput
+        parameterType: String
+        parameterInt: 0
+        parameterString: a
+        parameterFloat: 0
+        parameterBool: 0
+    originID: 363513817
+    targetID: 363513816
+    trigger: z
+    callbackInvokationOrder: 0
+  - onEdgePassed:
+      callbacks:
+      - objectName: Logger
+        componentName: SimpleLogger
+        methodName: MakeOutput
+        parameterType: String
+        parameterInt: 0
+        parameterString: c
+        parameterFloat: 0
+        parameterBool: 0
+    originID: 363513815
+    targetID: 363513817
+    trigger: x
+    callbackInvokationOrder: 0
+  - onEdgePassed:
+      callbacks: []
+    originID: 363513818
+    targetID: 363513815
+    trigger: goto q1
+    callbackInvokationOrder: 0
+  states:
+  - name: q0
+    id: 363513814
+    hideWarningsInEditor: 0
+    hideWarningsInConsole: 0
+    updateType: 0
+    callbackInvokationOrder: 0
+    isTerminating: 0
+    bounds:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 101.000015
+      height: 107
+    onStateEntered:
+      callbacks: []
+    onStateLeft:
+      callbacks: []
+    onStateStay:
+      callbacks: []
+    onStateSetActive:
+      callbacks: []
+  - name: q1
+    id: 363513815
+    hideWarningsInEditor: 0
+    hideWarningsInConsole: 0
+    updateType: 0
+    callbackInvokationOrder: 0
+    isTerminating: 0
+    bounds:
+      serializedVersion: 2
+      x: 242
+      y: -171
+      width: 101.000015
+      height: 107
+    onStateEntered:
+      callbacks: []
+    onStateLeft:
+      callbacks: []
+    onStateStay:
+      callbacks: []
+    onStateSetActive:
+      callbacks: []
+  - name: q2
+    id: 363513816
+    hideWarningsInEditor: 0
+    hideWarningsInConsole: 0
+    updateType: 0
+    callbackInvokationOrder: 0
+    isTerminating: 0
+    bounds:
+      serializedVersion: 2
+      x: 524
+      y: 59
+      width: 101.000015
+      height: 107
+    onStateEntered:
+      callbacks: []
+    onStateLeft:
+      callbacks: []
+    onStateStay:
+      callbacks: []
+    onStateSetActive:
+      callbacks: []
+  - name: q3
+    id: 363513817
+    hideWarningsInEditor: 0
+    hideWarningsInConsole: 0
+    updateType: 0
+    callbackInvokationOrder: 0
+    isTerminating: 0
+    bounds:
+      serializedVersion: 2
+      x: 247
+      y: 194
+      width: 101.000015
+      height: 107
+    onStateEntered:
+      callbacks: []
+    onStateLeft:
+      callbacks: []
+    onStateStay:
+      callbacks: []
+    onStateSetActive:
+      callbacks: []
+  - name: New State 0
+    id: 363513818
+    hideWarningsInEditor: 0
+    hideWarningsInConsole: 0
+    updateType: 0
+    callbackInvokationOrder: 0
+    isTerminating: 0
+    bounds:
+      serializedVersion: 2
+      x: 521.75
+      y: -124.75
+      width: 101.000015
+      height: 107
+    onStateEntered:
+      callbacks: []
+    onStateLeft:
+      callbacks: []
+    onStateStay:
+      callbacks: []
+    onStateSetActive:
+      callbacks: []
+  startStateID: 363513814
+  machineName: Mealy FSM
+  saveActiveState: 0
+  hideAllWarningsEditor: 0
+  hideAllWarningsConsole: 0
+  errorOnFailedInvoke: 0
+  activeStateID: -1
+  startMachineOnAwake: 1
+  clearRuntimeCallbacksOnStop: 1
+  window: {fileID: 0}

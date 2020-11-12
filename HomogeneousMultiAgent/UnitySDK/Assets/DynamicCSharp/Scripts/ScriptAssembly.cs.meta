@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 54e1432148d805a48a9585cbcecbd1ea
+labels:
+- DynamicC#
+- C#Scripting
+- C#
+- Runtime
+- Modding
+- ModSupport
+- Security
+timeCreated: 1484231851
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,315 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f0a284f190479244b1b9947e4b5366d, type: 3}
+  m_Name: Minigame State Machine
+  m_EditorClassIdentifier: 
+  edges:
+  - onEdgePassed:
+      callbacks:
+      - objectName: State Manager
+        componentName: MinigameStateManager
+        methodName: OnStartCountdown
+        parameterType: 
+        parameterInt: 0
+        parameterString: 
+        parameterFloat: 0
+        parameterBool: 0
+    originID: 363513814
+    targetID: 363513815
+    trigger: start
+    callbackInvokationOrder: 0
+  - onEdgePassed:
+      callbacks:
+      - objectName: State Manager
+        componentName: MinigameStateManager
+        methodName: OnStartGame
+        parameterType: 
+        parameterInt: 0
+        parameterString: 
+        parameterFloat: 0
+        parameterBool: 0
+    originID: 363513815
+    targetID: 363513817
+    trigger: countdown done
+    callbackInvokationOrder: 0
+  - onEdgePassed:
+      callbacks: []
+    originID: 363513817
+    targetID: 363513816
+    trigger: pause
+    callbackInvokationOrder: 0
+  - onEdgePassed:
+      callbacks:
+      - objectName: State Manager
+        componentName: MinigameStateManager
+        methodName: OnGameExit
+        parameterType: 
+        parameterInt: 0
+        parameterString: 
+        parameterFloat: 0
+        parameterBool: 0
+    originID: 363513816
+    targetID: 363513814
+    trigger: exit
+    callbackInvokationOrder: 0
+  - onEdgePassed:
+      callbacks: []
+    originID: 363513816
+    targetID: 363513817
+    trigger: continue
+    callbackInvokationOrder: 0
+  - onEdgePassed:
+      callbacks: []
+    originID: 363513815
+    targetID: 363513818
+    trigger: pause
+    callbackInvokationOrder: 0
+  - onEdgePassed:
+      callbacks: []
+    originID: 363513818
+    targetID: 363513815
+    trigger: continue
+    callbackInvokationOrder: 0
+  - onEdgePassed:
+      callbacks: []
+    originID: 363513818
+    targetID: 363513814
+    trigger: exit
+    callbackInvokationOrder: 0
+  states:
+  - name: Main Menu
+    id: 363513814
+    hideWarningsInEditor: 0
+    hideWarningsInConsole: 0
+    updateType: 0
+    callbackInvokationOrder: 0
+    isTerminating: 0
+    bounds:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 243.00006
+      height: 107
+    onStateEntered:
+      callbacks: []
+    onStateLeft:
+      callbacks:
+      - objectName: State Manager
+        componentName: MinigameStateManager
+        methodName: SetMainMenuVisibility
+        parameterType: Boolean
+        parameterInt: 0
+        parameterString: 
+        parameterFloat: 0
+        parameterBool: 0
+    onStateStay:
+      callbacks: []
+    onStateSetActive:
+      callbacks:
+      - objectName: State Manager
+        componentName: MinigameStateManager
+        methodName: SetMainMenuVisibility
+        parameterType: Boolean
+        parameterInt: 0
+        parameterString: 
+        parameterFloat: 0
+        parameterBool: 1
+  - name: Fly Plane
+    id: 363513815
+    hideWarningsInEditor: 0
+    hideWarningsInConsole: 0
+    updateType: 0
+    callbackInvokationOrder: 0
+    isTerminating: 0
+    bounds:
+      serializedVersion: 2
+      x: 239.99985
+      y: -240
+      width: 250.00006
+      height: 107
+    onStateEntered:
+      callbacks: []
+    onStateLeft:
+      callbacks:
+      - objectName: State Manager
+        componentName: MinigameStateManager
+        methodName: SetCountdownVisibility
+        parameterType: Boolean
+        parameterInt: 0
+        parameterString: 
+        parameterFloat: 0
+        parameterBool: 0
+    onStateStay:
+      callbacks:
+      - objectName: State Manager
+        componentName: MinigameStateManager
+        methodName: OnStayCountdown
+        parameterType: 
+        parameterInt: 0
+        parameterString: 
+        parameterFloat: 0
+        parameterBool: 0
+    onStateSetActive:
+      callbacks:
+      - objectName: State Manager
+        componentName: MinigameStateManager
+        methodName: SetCountdownVisibility
+        parameterType: Boolean
+        parameterInt: 0
+        parameterString: 
+        parameterFloat: 0
+        parameterBool: 1
+  - name: Game Paused
+    id: 363513816
+    hideWarningsInEditor: 0
+    hideWarningsInConsole: 0
+    updateType: 0
+    callbackInvokationOrder: 0
+    isTerminating: 0
+    bounds:
+      serializedVersion: 2
+      x: 600.0001
+      y: 0
+      width: 248.00006
+      height: 107
+    onStateEntered:
+      callbacks: []
+    onStateLeft:
+      callbacks:
+      - objectName: State Manager
+        componentName: MinigameStateManager
+        methodName: SetPauseMenuVisibility
+        parameterType: Boolean
+        parameterInt: 0
+        parameterString: 
+        parameterFloat: 0
+        parameterBool: 0
+    onStateStay:
+      callbacks:
+      - objectName: State Manager
+        componentName: MinigameStateManager
+        methodName: OnStayPaused
+        parameterType: 
+        parameterInt: 0
+        parameterString: 
+        parameterFloat: 0
+        parameterBool: 0
+    onStateSetActive:
+      callbacks:
+      - objectName: State Manager
+        componentName: MinigameStateManager
+        methodName: SetPauseMenuVisibility
+        parameterType: Boolean
+        parameterInt: 0
+        parameterString: 
+        parameterFloat: 0
+        parameterBool: 1
+  - name: Game Running
+    id: 363513817
+    hideWarningsInEditor: 0
+    hideWarningsInConsole: 0
+    updateType: 0
+    callbackInvokationOrder: 0
+    isTerminating: 0
+    bounds:
+      serializedVersion: 2
+      x: 600.0001
+      y: -240
+      width: 214.00006
+      height: 107
+    onStateEntered:
+      callbacks: []
+    onStateLeft:
+      callbacks:
+      - objectName: State Manager
+        componentName: MinigameStateManager
+        methodName: OnGameStateLeft
+        parameterType: 
+        parameterInt: 0
+        parameterString: 
+        parameterFloat: 0
+        parameterBool: 0
+    onStateStay:
+      callbacks:
+      - objectName: State Manager
+        componentName: MinigameStateManager
+        methodName: OnGameUpdate
+        parameterType: 
+        parameterInt: 0
+        parameterString: 
+        parameterFloat: 0
+        parameterBool: 0
+    onStateSetActive:
+      callbacks:
+      - objectName: State Manager
+        componentName: MinigameStateManager
+        methodName: OnGameStateEntered
+        parameterType: 
+        parameterInt: 0
+        parameterString: 
+        parameterFloat: 0
+        parameterBool: 1
+  - name: Fly
+    id: 363513818
+    hideWarningsInEditor: 0
+    hideWarningsInConsole: 0
+    updateType: 0
+    callbackInvokationOrder: 0
+    isTerminating: 0
+    bounds:
+      serializedVersion: 2
+      x: 0
+      y: -480
+      width: 248.00006
+      height: 107
+    onStateEntered:
+      callbacks: []
+    onStateLeft:
+      callbacks:
+      - objectName: State Manager
+        componentName: MinigameStateManager
+        methodName: SetPauseMenuVisibility
+        parameterType: Boolean
+        parameterInt: 0
+        parameterString: 
+        parameterFloat: 0
+        parameterBool: 0
+    onStateStay:
+      callbacks:
+      - objectName: State Manager
+        componentName: MinigameStateManager
+        methodName: OnStayPaused
+        parameterType: 
+        parameterInt: 0
+        parameterString: 
+        parameterFloat: 0
+        parameterBool: 0
+    onStateSetActive:
+      callbacks:
+      - objectName: State Manager
+        componentName: MinigameStateManager
+        methodName: SetPauseMenuVisibility
+        parameterType: Boolean
+        parameterInt: 0
+        parameterString: 
+        parameterFloat: 0
+        parameterBool: 1
+  startStateID: 363513814
+  machineName: Minigame
+  saveActiveState: 0
+  hideAllWarningsEditor: 0
+  hideAllWarningsConsole: 0
+  errorOnFailedInvoke: 0
+  activeStateID: -1
+  startMachineOnAwake: 1
+  clearRuntimeCallbacksOnStop: 1
+  window: {fileID: 0}

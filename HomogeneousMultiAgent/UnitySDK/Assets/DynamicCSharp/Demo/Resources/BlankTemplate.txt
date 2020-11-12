@@ -1,0 +1,16 @@
+using UnityEngine;
+using DynamicCSharp.Demo;
+
+class Tank : TankController
+{
+	public void Start()
+	{
+		moveSpeed = 1;
+		rotateSpeed = 1;
+	}
+
+	public override void TankMain()
+	{
+		// Todo - Add code to move that tank around the scene
+	}
+}

@@ -1,0 +1,61 @@
+
+v1.0 - First private release
+-Sample senes 3D and 2D
+-Target objects: BETargetObject2DRocket-NoRigidbody2D, BETargetObject2DStar-NoRigidbody2D, BETargetObject3DCube-Rigidbody, BETargetObject3DRocket-NoRigidbody
+-BEController workshop
+	-new target object
+	-build block
+	-reimport instruction stack
+-Blocks scroll view with instructions and new variable panel
+-Save load code + delete
+
+v1.0.1 - First public release and minor fix
+-Bug fix: null when getting programming environment from BEProgrammingEnv
+
+v1.1 - Small improvements and minor fix
+-On creating target object via workshop, if in play mode, add newly created targed object to controller list
+-Enable programming env from target object inspector
+-"Scene" section added on BEController inspector
+	-List of target objects in scene
+	-Enable programming env flag for each target object, single or mutiple enabled 
+-Changed FindTargetObject to retrieve all objects with BETargetObject component, more suitable name than use tag=="Player"
+-GetBeController method added to BETargetObject using FindObjectOfType, more suitable than tag=="GameController"
+-Added documentation about BEController inspector "Scene" section
+-Misspelling fixes
+-Bug fix: impossibility of selecting another target object to be create via workshop
+-Documentation fix: missing BeController reference in the end of the example script
+
+v1.2 - New example scene, improvements and minor fixes
+-Sprites's Filter Mode changed to Bilinear for a better result in multiple screen sizes
+-Increased size of Play, Stop, Load/Save Code buttons
+-Added FunctionSlideForward, FunctionTurnRight, FunctionTurnLeft, FunctionTurnLeftRight, FunctionRepeatUntil
+-Added SampleGame scene
+-Custom UI Scale section on the inspector for adjusting the scale based on the screen width
+-return null when block does not had Target Object asociated
+-scrollviewl now expands right and bottom if dropped block is beyond view limit
+-adjust correctly block anchor on instantiate New Block
+-reduced hold time to show "right click" menu from 1s to 0.6s
+-changed referencing from fixed child index to GetComponentInChildren, avoid hierarchy mistakes
+-changed beInstructionStack referencing from fixed child index to compare object name, avoid hierarchy mistakes
+-Custom UI Scale section on the inspector for adjusting the scale based on the screen width
+-variableNameInput to private, cleaner BEController inspector
+-singleEnabledProgrammingEnv moved outside #if UNITY_EDITOR due to error on build
+-Destroy UIDrop if dont fit on the Block type to avoid potential error
+-Custom UI Scale section on the inspector for adjusting the scale based on the screen width
+-Added BEJoystick (virtual joystick), BEJoystickButton and BEJoystick Trigger/Event Blocks
+
+v1.3 - Performance improvements, UI improvements and minor fixes
+-Bug fix: [reported] beTargetObject not being set
+-Bug fix: ghost block keeps visible if block is destroyed
+-Bug fix: [reported on Unity 2019] variable blocks dropdown changing to index 0 on Play pressed
+-BEUIController component added to manage UI and encompass changes UI improvements
+-BEEventSystem singleton added to reduce EventSystem costly calls
+-Fix and autoset Operation Blocks' inputs size and alignment
+-Added general method to resize input fields
+-Index calculation adjusted for dropped blocks when there is a long block snapped
+-BELayoutRebuilder added to manage layout changes and enable fluid WebGL build
+-Some refactoring to inprove performance
+-Enabled veltical resize of the Programming Environment
+-Clear button added to delete all blocks from the BEProgrammingEnv
+-Blocks Sections now expand/collapse blocks
+

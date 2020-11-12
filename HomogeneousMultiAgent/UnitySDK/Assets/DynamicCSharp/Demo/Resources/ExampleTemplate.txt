@@ -1,0 +1,38 @@
+using UnityEngine;
+using DynamicCSharp.Demo;
+
+// Complete example - This code will complete the level
+class Tank : TankController
+{
+	public void Start()
+	{
+		moveSpeed = 1;
+		rotateSpeed = 1;
+	}
+
+	public override void TankMain()
+	{
+		MoveBackward();
+		RotateClockwise();
+		Shoot();
+		RotateCounterClockwise(30);
+		Shoot();
+		RotateCounterClockwise(60);
+		MoveForward(6);
+		RotateClockwise();
+		Shoot();
+		MoveForward(2);
+		RotateClockwise(45);
+		MoveForward(1.5f);
+		RotateClockwise(45);
+		MoveForward();
+		RotateCounterClockwise();
+		MoveForward();
+		RotateClockwise();
+		Shoot();
+		MoveForward(3);
+		RotateCounterClockwise(45);
+		MoveForward(1.5f);
+		RotateCounterClockwise(135);
+	}
+}

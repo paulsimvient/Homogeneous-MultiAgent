@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f26b64bf32368d44b7ae7839c43aed3, type: 3}
+  m_Name: Model_09_Grass_Flower 4
+  m_EditorClassIdentifier: 
+  m_Name: Model_09_Grass_Flower 4
+  m_EditorClassIdentifier: 
+  EnableModelUsing: 0
+  DetailTexture: {fileID: 2800000, guid: 5afd653e4d79b7a4c9523dd543c0bead, type: 3}
+  MinWidth: 1
+  MaxWidth: 1.58
+  MinHeight: 1
+  MaxHeight: 1.48
+  Noise: 0.26
+  HealthyColor:
+    rgba: 4293848814
+  DryColor:
+    rgba: 4291480266
+  BillBoard: 0
